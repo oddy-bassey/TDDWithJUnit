@@ -1,7 +1,7 @@
 package com.revoltcode.TDDWitihJUnit.service;
 
 import com.revoltcode.TDDWitihJUnit.domain.CustomerContact;
-import com.revoltcode.TDDWitihJUnit.repos.CustomerContactRepository;
+import com.revoltcode.TDDWitihJUnit.repository.CustomerContactRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
